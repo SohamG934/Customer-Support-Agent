@@ -15,7 +15,7 @@ import openai
 load_dotenv()
 
 client = openai.OpenAI(
-    api_key = ('sk-proj-4tcuOHR20RCKmiasurYYT3BlbkFJ0heN7tTgTiAQP8Yk5AkF'),
+    api_key = (''),
 )
 
 # Load and process company documentation
